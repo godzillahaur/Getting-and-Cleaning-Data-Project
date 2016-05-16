@@ -1,7 +1,7 @@
-CodeBook
+#CodeBook
 This is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
-The data source
+#The data source
 
 Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -9,7 +9,7 @@ Data Set Information
 
 TOne of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
-The data
+#The data
 
 'features_info.txt': Shows information about the variables used on the feature vector.
 
@@ -35,7 +35,7 @@ The following files are available for the train and test data. Their description
 
 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-Transformation details
+#Transformation details
 
 There are 5 parts:
 
